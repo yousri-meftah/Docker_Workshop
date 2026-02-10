@@ -176,6 +176,7 @@ sudo apt install -y wireshark
 sudo dpkg-reconfigure wireshark-common   # choose YES
 sudo usermod -aG wireshark $USER
 newgrp wireshark
+sudo apt install iputils-ping
 ```
 
 Run:
