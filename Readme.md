@@ -1,3 +1,16 @@
+## 📦 Docker Introduction (Helpful Video)
+
+If you're new to Docker and want to understand the basics before exploring this project, this video gives a clear and beginner-friendly explanation of:
+
+- What Docker is
+- What containers and images are
+- Why Docker is useful
+- How it helps create consistent development environments
+
+🎥 Watch here: https://www.youtube.com/watch?v=DUgzXX2_aDQ
+
+It’s highly recommended to watch this first if Docker is new to you.
+
 # TP: Telnet vs SSH with Docker & Wireshark (Ubuntu)
 
 ## Objective
